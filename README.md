@@ -2,7 +2,8 @@
 
 mi contenedor con una imagen
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/75a18cd9-3523-470e-8b9a-d9e1ac8f1b4a)
+
 
 ## Getting Started
 
